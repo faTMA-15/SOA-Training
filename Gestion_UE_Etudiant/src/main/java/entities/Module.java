@@ -79,6 +79,4 @@ public class Module {
     public void setUniteEnseignement(UniteEnseignement uniteEnseignement) {
         this.uniteEnseignement = uniteEnseignement;
     }
-
-
 }
